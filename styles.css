@@ -1,0 +1,12 @@
+/* Here is where all the code to style the web pages will be placed */
+h1{
+    background-color:orange;
+    color:black;
+    text-align:center;
+    font-weight:800;
+}
+
+body{
+    font-family: "Times New Roman", serif;
+    color:black;
+}
