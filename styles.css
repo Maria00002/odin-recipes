@@ -27,6 +27,11 @@ body{
     background-color:bisque;
     padding: 15px;
     margin:10px;
+    display: flex;
+}
+
+.one.two.three {
+    flex: 1 1 0%;
 }
 
 img{
